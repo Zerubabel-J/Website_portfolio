@@ -20,7 +20,7 @@ const NavigationBar = () => {
         <NavbarBrand href="/">ABC-TECH</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
-          <Nav className="ml-auto" navbar>
+          <Nav className="ml-auto" gap-3 navbar>
             <NavItem>
               <NavLink href="/services" style={{ color: "white" }}>
                 Services
