@@ -16,27 +16,34 @@ const NavigationBar = () => {
 
   return (
     <div>
-      <Navbar color="light" light expand="md">
+      <Navbar color="dark" dark expand="md" style={{ height: "50px" }}>
         <NavbarBrand href="/">ABC-TECH</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>
             <NavItem>
-              <NavLink href="/services">Services</NavLink>
+              <NavLink href="/services" style={{ color: "white" }}>
+                Services
+              </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/about">About Us</NavLink>
+              <NavLink href="/about" style={{ color: "white" }}>
+                About Us
+              </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/about">Portfolio</NavLink>
+              <NavLink href="/about" style={{ color: "white" }}>
+                Portfolio
+              </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/contact">Contact Us</NavLink>
+              <NavLink href="/contact" style={{ color: "white" }}>
+                Contact Us
+              </NavLink>
             </NavItem>
           </Nav>
         </Collapse>
       </Navbar>
-      <br></br>
     </div>
   );
 };

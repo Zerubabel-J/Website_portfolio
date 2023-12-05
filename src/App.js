@@ -1,7 +1,8 @@
+import "./Styles/style.css";
 import "./App.css";
-// import Bugfix from "./Components/Bugfix";
 import NavigationBar from "./Components/NavigationBar";
 import Portfollio from "./Components/Portfollio";
+// import Bugfix from "./Components/Bugfix";
 function App() {
   return (
     <>
