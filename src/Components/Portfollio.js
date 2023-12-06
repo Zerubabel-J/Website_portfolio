@@ -88,7 +88,7 @@ const Portfollio = () => {
                     </CardTitle>
                     <div className="w-more">
                       <span className="w-ctegory">Web Development</span> /{" "}
-                      <span className="w-date">18 Dec-2022</span>
+                      <span className="w-date">05 Dec-2023</span>
                     </div>
                   </div>
                   <div className="col-sm-4">
@@ -121,7 +121,7 @@ const Portfollio = () => {
                     </CardTitle>
                     <div className="w-more">
                       <span className="w-ctegory">Web Development</span> /{" "}
-                      <span className="w-date">18 Dec-2022</span>
+                      <span className="w-date">05 Dec-2023</span>
                     </div>
                   </div>
                   <div className="col-sm-4">
@@ -154,7 +154,7 @@ const Portfollio = () => {
                     </CardTitle>
                     <div className="w-more">
                       <span className="w-ctegory">Web Development</span> /{" "}
-                      <span className="w-date">18 Dec-2022</span>
+                      <span className="w-date">05 Dec-2023</span>
                     </div>
                   </div>
                   <div className="col-sm-4">
@@ -187,7 +187,7 @@ const Portfollio = () => {
                     </CardTitle>
                     <div className="w-more">
                       <span className="w-ctegory">Web Development</span> /{" "}
-                      <span className="w-date">18 Dec-2022</span>
+                      <span className="w-date">05 Dec-2023</span>
                     </div>
                   </div>
                   <div className="col-sm-4">
@@ -224,7 +224,7 @@ const Portfollio = () => {
                     </CardTitle>
                     <div className="w-more">
                       <span className="w-ctegory">Web Development</span> /{" "}
-                      <span className="w-date">18 Dec-2022</span>
+                      <span className="w-date">05 Dec-2023</span>
                     </div>
                   </div>
                   <div className="col-sm-4">
@@ -257,7 +257,7 @@ const Portfollio = () => {
                     </CardTitle>
                     <div className="w-more">
                       <span className="w-ctegory">Web Development</span> /{" "}
-                      <span className="w-date">18 Dec-2022</span>
+                      <span className="w-date">05 Dec-2023</span>
                     </div>
                   </div>
                   <div className="col-sm-4">
